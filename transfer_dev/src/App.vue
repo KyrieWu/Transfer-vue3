@@ -63,7 +63,7 @@ const data = [
       {
         id: 6,
         phone_name: "xiaomi 11 pro",
-        disabled: true,
+        disabled: false,
       },
       {
         id: 7,
